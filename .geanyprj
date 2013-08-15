@@ -1,0 +1,7 @@
+[project]
+name=calc
+description=A simple integer calculator
+base_path=./
+run_cmd=
+regenerate=true
+type=C
